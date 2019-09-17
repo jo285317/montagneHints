@@ -8,3 +8,4 @@ Lec 3: ECI - End of Class Interrupt. Know types of intterupts and how they work.
 
 Lec4: A process is a program in execution
 
+Lec5: An IO interrupt is asynchronous, System calls are synchronous
